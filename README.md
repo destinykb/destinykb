@@ -1,4 +1,4 @@
-# Hi, I'm Destiny 👋
+# Hi, I'm Destiny!
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=<your-username>&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
@@ -13,7 +13,7 @@ Senior Data Science major at Barnard College.
 
 ---
 
-### 🛠️ Languages & Technologies
+### Languages & Technologies
 
 <p align="left">
   <!-- Languages -->
@@ -37,7 +37,7 @@ Senior Data Science major at Barnard College.
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
 * 🎟️ **[Find-A-Concert Database Application](https://github.com/destinykb/Databases-Project)**  
   *3NF-normalized PostgreSQL relational schema connected to a Flask backend powering event querying and simulated checkout logic.*
@@ -50,11 +50,11 @@ Senior Data Science major at Barnard College.
 
 ---
 
-### 🎓 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=destinykb&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destinykb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ Senior Data Science major at Barnard College.
 
 ---
 
-### ⚡ Connect with me
+### Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/destinybrewington/" target="_blank">
