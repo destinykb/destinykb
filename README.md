@@ -1,9 +1,5 @@
 # Hi, I'm Destiny!
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=<your-username>&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
-</p>
-
 Senior Data Science major at Barnard College.
 
 - 🔭 Currently building: **Data pipelines, web tools, and interactive dashboards**
