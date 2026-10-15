@@ -1,6 +1,6 @@
 # Hi, I'm Destiny!
 
-Senior Data Science major at Barnard College.
+Senior Data Science major at Barnard College interested in data visualization, music, and the visual arts.
 
 
 ---
