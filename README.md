@@ -2,10 +2,6 @@
 
 Senior Data Science major at Barnard College.
 
-- 🔭 Currently building: **Data pipelines, web tools, and interactive dashboards**
-- 🌱 Exploring: **Advanced SQL optimizations, Applied Machine Learning, & Cloud Workflows**
-- 💬 Ask me about: **Python, PostgreSQL, Tableau, and Streamlit**
-- ⚡ Fun fact: **I study Japanese and love collecting music data**
 
 ---
 
@@ -43,19 +39,6 @@ Senior Data Science major at Barnard College.
 
 * 🛍️ **[Barnard Store Retail Sales Reports](https://public.tableau.com/app/profile/destiny.brewington)**  
   *Point-of-sale reporting suite evaluating revenue pacing, volume velocity, and inventory sell-through across peak campus shopping periods.*
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=destinykb&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=destinykb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
