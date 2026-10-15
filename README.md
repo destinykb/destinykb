@@ -34,7 +34,7 @@ Senior Data Science major at Barnard College interested in data visualization, m
 * 🎟️ **[Find-A-Concert Database Application](https://github.com/destinykb/Databases-Project)**  
   *PostgreSQL relational schema connected to a Flask backend powering event querying and simulated checkout logic.*
 
-* 🎵 **[Apple Music Listening Analytics Pipeline](https://github.com/destinykb/destinys-music-analysis)**  
+* 🎵 **[Apple Music Listening Analytics](https://github.com/destinykb/destinys-music-analysis)**  
   *Restructuring 3 years of Apple Music Replay history to evaluate artist emergence and genre velocity in Tableau.*
 
 * 🛍️ **[Barnard Store Retail Sales Reports](https://public.tableau.com/app/profile/destiny.brewington)**  
