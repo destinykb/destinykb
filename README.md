@@ -37,7 +37,7 @@ Senior Data Science major at Barnard College interested in data visualization, m
 **[Apple Music Listening Analytics](https://github.com/destinykb/destinys-music-analysis)**  
   *Restructuring 3 years of Apple Music Replay history to evaluate artist emergence and genre velocity in Tableau.*
 
-**[Barnard Store Retail Sales Reports](https://github.com/destinykb/BStore-Sales-Analysis))**  
+**[Barnard Store Retail Sales Reports](https://github.com/destinykb/BStore-Sales-Analysis)**  
   *Point-of-sale report evaluating revenue pacing, volume velocity, and inventory sell-through across peak campus shopping periods.*
 
 ---
