@@ -32,10 +32,10 @@ Senior Data Science major at Barnard College interested in data visualization, m
 ### Projects
 
 **[Find-A-Concert Database Application](https://github.com/destinykb/Databases-Project)**  
-  *PostgreSQL relational schema connected to a Flask backend powering event querying and simulated checkout logic.*
+*PostgreSQL relational schema connected to a Flask backend powering event querying and simulated checkout logic.*
   
-**[Do Women Still Have to be Naked to enter the Met Museum?](https://github.com/destinykb/Met_Female_Modern_Art)**
-   *Exploring gender disparities in artist representation and nude subjects within the modern art of the Met Collection.*
+**[Do Women Still Have to be Naked to enter the Met Museum?](https://github.com/destinykb/Met_Female_Modern_Art)**   
+  *Exploring gender disparities in artist representation and nude subjects within the modern art of the Met Collection.*
 
 **[Apple Music Listening Analytics](https://github.com/destinykb/destinys-music-analysis)**  
   *Restructuring 3 years of Apple Music Replay history to evaluate artist emergence and genre velocity in Tableau.*
